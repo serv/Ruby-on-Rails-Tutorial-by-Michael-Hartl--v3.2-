@@ -1,3 +1,6 @@
+# 2nd reading for Rails v 3.2
+[Online!](https://railstutorialjkim.heroku.com/)
+
 # Ruby on Rails Tutorial: sample application
 
 This is the sample application for
